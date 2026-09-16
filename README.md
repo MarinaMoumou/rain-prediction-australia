@@ -2,7 +2,7 @@
 
 *Binary classification (scikit-learn) predicting next-day rain from Australian weather station data — logistic regression vs gradient boosting. English summary below.*
 
-Projet réalisé en groupe avec **Melike Demiray** et **Cloé Hanauer**.
+Projet réalisé en groupe.
 
 ## Problématique
 
@@ -57,7 +57,7 @@ Python — `pandas`, `numpy`, `matplotlib`, `seaborn`, `scikit-learn`
 
 ## English summary
 
-Group project (with Melike Demiray and Cloé Hanauer) predicting next-day
+Group project predicting next-day
 rain in Australia from the public "Rain in Australia" Kaggle dataset.
 After EDA and preprocessing (encoding, imputation, scaling), a logistic
 regression and a gradient boosting classifier are trained on an 80/20
